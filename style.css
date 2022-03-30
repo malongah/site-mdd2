@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+body{font-family: 'Lora', serif;}
+background-color: rgb(190, 190, 190)
+
+h1, h2, h3, h4, a{font-family: 'Roboto', sans-serif;}
+
+h1{color: red;}
+
+h2{color: green;}
+
+a{tex}
+
+div {box-shadow: 1px 1px 10px grey;
+
+}
+
+#logo{width: 100px;}
+
+.img-circle {border-radius: 50%;}
+
+.btn-blue {
+	background-color: blue;
+	padding: 15px;
+	color: white;
+	font-weight: bold;
+	border-radius: 6px;
+	margin: 0 auto;
+	display: black;
+	width: 25%;
+	border: 1px solid bleu;
+}
+
+.btn-blue:hover {background-color: white; color: blue; transition: 1s;}
+
+
+.list-inline li{display: inline;}
+
+.list list-inline{padding: 0;}
+
+.list-inline a {font-size: 48px; color: rgba(0, 0, 0, 0.3);}
+
+.list-inline a:hover {color:  black;}
